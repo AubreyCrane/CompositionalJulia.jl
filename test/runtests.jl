@@ -1,6 +1,6 @@
-using CompositionalJulia
 using Test
+using CompositionalJulia
 
 @testset "CompositionalJulia.jl" begin
-    # Write your tests here.
+    greet()
 end

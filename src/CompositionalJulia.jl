@@ -1,5 +1,6 @@
 module CompositionalJulia
 
-# Write your package code here.
+export greet
+greet() = println("Hello from CompositionalJulia!")
 
 end
