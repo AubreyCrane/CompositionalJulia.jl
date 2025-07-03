@@ -1,0 +1,3 @@
+[deps]
+CompositionalJulia = "b961d7e5-ecbf-469c-9360-98fdded73e0b"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
